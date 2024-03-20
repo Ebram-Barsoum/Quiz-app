@@ -1,0 +1,16 @@
+.option{
+    background-color: aliceblue;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    border:0px solid aliceblue;
+}
+.option:disabled{
+    cursor: not-allowed;
+}
+.option:not(:disabled):hover{
+    margin-left: 8px !important;
+    background-color: aqua !important;
+}

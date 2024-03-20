@@ -1,0 +1,7 @@
+.restartBtn{
+    background-color: aliceblue;
+    color: #000;
+}
+.restartBtn:hover{
+ background-color: aliceblue !important;
+}

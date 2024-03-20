@@ -1,0 +1,9 @@
+.btnNext:hover{
+    color:#fff !important;
+}
+
+@media(min-width:992px){
+    .question{
+       width: 40%;
+    }
+}
